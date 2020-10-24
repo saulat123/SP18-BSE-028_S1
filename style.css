@@ -1,0 +1,306 @@
+#header{
+
+    background-color: white;
+    margin: 2px;
+    padding: 2px;
+  
+}
+#link{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    position: sticky;
+    padding: 0px;
+}
+#link ul {
+    list-style-type: none;
+    position: sticky;
+    padding: 1px;
+  }
+  
+#link  li {
+    float: left;
+    display: inline;
+    
+  }
+  
+#link li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration: none;
+  }
+ #link ul li:hover{
+    background-color:grey;	
+	transition :0.5s ease;
+}
+
+#top-panel{
+  background-color: black;
+  width: 70%;
+  height: 25vmax;
+  display: block;
+  padding: 4px;
+  margin-top: 3%;
+margin-left: 12%;  
+
+}
+
+.flex-container {
+    display: block ;
+    
+  }
+  
+
+.flex-container > div {
+    
+    margin: 10px;
+    text-align: center;
+    line-height: 25px;
+    font-size: 20px;
+  }
+  
+
+  #left-panel{
+      width: 15%;
+      margin-left: 5%;
+      margin-top: 5%;
+  }
+
+  #left1{
+   padding-top: 2px;
+
+  }
+#para1{
+text-align: center;
+margin-left: 2px;
+font-size: 1.1vmax;
+
+}
+#left2{
+    margin-top: 2px;
+  
+  }
+  #para2{
+    text-align: center;
+    margin-left: 2px;
+    font-size: 1.1vmax;
+  }
+
+  #left3{
+    padding-top: 2px;
+ 
+   }
+
+   #para3{
+    text-align: center;
+    margin-left: 2px;
+    font-size: 1.1vmax;
+   }
+
+   #left4{
+    padding-top: 2px;
+ 
+   }
+
+   #para4{
+    text-align: center;
+    margin-left: 2px;
+    font-size: 1.1vmax;
+   }
+
+  #center-panel{
+
+      width: 80%;
+      margin-top: -103%;
+
+
+  }
+
+  #center1{
+    width: 80%;
+    margin-left: 5%;
+
+  }
+  #text1{
+    text-align: center;
+    font-size: 1vmax;
+    margin-left: 10%;
+    
+
+  }
+
+  #center2{
+    padding-top: 4px;
+    width: 80%;
+    margin-left: 5%;
+
+  }
+  #text2{
+    text-align: left;
+    font-size: 1vmax;
+    margin-left: 30%;
+
+  }
+
+  #center3{
+    padding-top: 4px;
+    width: 80%;
+    margin-left: 5%;
+
+  }
+
+  #text3{
+    text-align: left;
+    font-size: 1vmax;
+    margin-left: 30%;
+}
+
+  #right-panel{
+      display: block;
+      border-left: 3px solid black;
+      width: 30%;
+      float: right;
+    margin-top: -89%;
+    padding-left: 3px;
+    text-align: left;
+    margin-right: 10px;
+  }
+
+  
+    
+  
+
+  #right1{
+    display: block;
+    font-size: 80%;
+    border-bottom: 1px solid black;
+    border-color: gray;
+    padding-bottom: 10px;
+    margin-right: 60px;
+
+  }
+  #right1 a{
+color: black;  }
+  
+#right1:hover{
+    background-color: aliceblue;	
+	transition :0.5s ease;
+  }
+
+  #right2{
+    display: block;
+    font-size: 80%;
+    border-bottom: 1px solid black;
+    border-color: gray;
+    padding-bottom: 10px;
+    margin-right: 60px;
+
+  }
+  #right2 a{
+    color: black;  }
+
+    #right2:hover{
+        background-color: aliceblue;	
+        transition :0.5s ease;
+      }
+
+
+  #right3{
+    display: block;
+    border-bottom: 1px solid black;
+    font-size: 80%;
+    border-color: gray;
+    padding-bottom: 10px;
+    margin-right: 60px;
+    
+
+  }
+
+  #right3 a{
+    color: black;  }
+
+    #right3:hover{
+        background-color: aliceblue;	
+        transition :0.5s ease;
+      }
+
+  #right4{
+    display: block;
+    border-bottom: 1px solid black;
+    font-size: 80%;
+    border-color: gray;
+    padding-bottom: 10px;
+    margin-right: 60px;
+
+  }
+  #right4 a{
+    color: black;  }
+
+    #right4:hover{
+        background-color: aliceblue;	
+        transition :0.5s ease;
+      }
+
+    #right5{
+        display: block;
+        border-bottom: 1px solid black;
+        font-size: 80%;
+        border-color: gray;
+        padding-bottom: 10px;
+        margin-right: 60px;  
+    }
+      #right5 a{
+        color: black;  }
+
+        #right5:hover{
+            background-color: aliceblue;	
+            transition :0.5s ease;
+          }
+  
+        #right6{
+            display: block;
+            border-bottom: 1px solid black;
+            font-size: 80%;
+            border-color: gray;
+            padding-bottom: 10px;
+            margin-right: 60px;
+
+          }
+          #right6 a{
+            color: black;  }
+
+            #right6:hover{
+                background-color: aliceblue;	
+                transition :0.5s ease;
+              }
+  
+            #right7{
+                display: block;
+                border-bottom: 1px solid black;
+                font-size: 80%;
+                border-color: gray;
+                padding-bottom: 10px;
+                margin-right: 60px;
+              }
+
+              #right7 a{
+                color: black;  }
+
+                #right7:hover{
+                    background-color: aliceblue;	
+                    transition :0.5s ease;
+                  }
+              
+  
+
+ #right8{
+    padding-top: 4px;
+    margin-left: 1%;
+ }
+
+ #right4txt{
+font-size: 80%;
+
+ }
